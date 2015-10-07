@@ -1,0 +1,32 @@
+{
+  "name": "google-material-icons",
+  "version": "0.1.0",
+  "description": "Google Material Icon Font (with LESS and SASS)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dunmaksim/google-material-icons.git"
+  },
+  "keywords": [
+    "google",
+    "material",
+    "icon",
+    "font"
+  ],
+  "author": "Dunaevsky Maxim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dunmaksim/google-material-icons/issues"
+  },
+  "homepage": "https://github.com/dunmaksim/google-material-icons#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-less": "^3.0.3",
+    "gulp-rename": "^1.2.2",
+    "less-plugin-autoprefix": "^1.5.1",
+    "less-plugin-clean-css": "^1.5.1"
+  }
+}

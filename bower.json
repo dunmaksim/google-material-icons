@@ -1,0 +1,25 @@
+{
+  "name": "google-material-icons",
+  "version": "0.1.0",
+  "homepage": "https://github.com/dunmaksim/google-material-icons",
+  "authors": [
+    "Dunaevsky Maxim <dunmaksim@yandex.ru>"
+  ],
+  "description": "Google Material Icon Font v2.0 with LESS and SASS",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "google",
+    "material",
+    "icon",
+    "font"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

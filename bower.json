@@ -6,7 +6,7 @@
     "Dunaevsky Maxim <dunmaksim@yandex.ru>"
   ],
   "description": "Google Material Icon Font v2.0 with LESS and SASS",
-  "main": "",
+  "main": "dist/material-icons-font.min.css",
   "moduleType": [],
   "keywords": [
     "google",

@@ -28,5 +28,8 @@
     "gulp-rename": "^1.2.2",
     "less-plugin-autoprefix": "^1.5.1",
     "less-plugin-clean-css": "^1.5.1"
+  },
+  "dependencies": {
+    "gulp-less": "^3.0.5"
   }
 }

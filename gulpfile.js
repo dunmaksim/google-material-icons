@@ -10,14 +10,13 @@
             cascade: false
         }),
         less = r('gulp-less'),
-        path = r('path'),
         rename = r('gulp-rename'),
         gulp = r('gulp'),
         sources = {
             less: './src/*.less'
         },
         targets = {
-            less: path.join(__dirname, 'dist')
+            less: __dirname
         };
 
     gulp.task('less', function () {

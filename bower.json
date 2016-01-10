@@ -1,27 +1,27 @@
 {
-  "name": "google-material-icons",
-  "version": "2.0.0",
-  "homepage": "https://github.com/dunmaksim/google-material-icons",
-  "authors": [
-    "Dunaevsky Maxim <dunmaksim@yandex.ru>"
-  ],
-  "description": "Google Material Icon Font v2.0 with LESS and SASS",
-  "main": "dist/material-icons-font.min.css",
-  "moduleType": [],
-  "keywords": [
-    "google",
-    "material",
-    "icon",
-    "font"
-  ],
-  "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests",
-    "gulpfile.js",
-    "src"
-  ]
+    "name": "google-material-icons",
+    "version": "2.1.3",
+    "homepage": "https://github.com/dunmaksim/google-material-icons",
+    "authors": [
+        "Dunaevsky Maxim <dunmaksim@yandex.ru>"
+    ],
+    "description": "Google Material Icon Font v2.1.3 with LESS and SASS",
+    "main": "dist/material-icons-font.min.css",
+    "moduleType": [],
+    "keywords": [
+        "google",
+        "material",
+        "icon",
+        "font"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests",
+        "gulpfile.js",
+        "src"
+    ]
 }

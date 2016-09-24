@@ -5,8 +5,15 @@
     "authors": [
         "Dunaevsky Maxim <dunmaksim@yandex.ru>"
     ],
-    "description": "Google Material Icon Font v2.1.3 with LESS and SASS",
-    "main": "dist/material-icons-font.min.css",
+    "description": "Google Material Icon Font v2.2.0 with LESS and SASS",
+    "main": [
+        "google-material-icons.min.css",
+        "google-material-icons.css",
+        "fonts/MaterialIcons-Regular.eot",
+        "fonts/MaterialIcons-Regular.ttf",
+        "fonts/MaterialIcons-Regular.woff",
+        "fonts/MaterialIcons-Regular.woff2"
+    ],
     "moduleType": [],
     "keywords": [
         "google",

@@ -25,7 +25,6 @@
   /* Support for Safari and Chrome. */
   -moz-osx-font-smoothing: grayscale;
   /* Support for Firefox. */
-  -webkit-font-feature-settings: 'liga';
   font-feature-settings: 'liga';
   /* Support for IE. */
 }

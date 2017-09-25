@@ -7,11 +7,7 @@
     ],
     "description": "Google Material Icon Font v2.2.0 with LESS and SASS",
     "main": [
-        "google-material-icons.css",
-        "fonts/MaterialIcons-Regular.eot",
-        "fonts/MaterialIcons-Regular.ttf",
-        "fonts/MaterialIcons-Regular.woff",
-        "fonts/MaterialIcons-Regular.woff2"
+        "google-material-icons.css"
     ],
     "moduleType": [],
     "keywords": [
